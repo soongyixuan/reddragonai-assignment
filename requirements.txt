@@ -1,0 +1,10 @@
+torch 
+transformers==4.35.2
+fastapi 
+uvicorn
+loralib
+sentencepiece
+bitsandbytes 
+accelerate 
+einops
+#pip install -r requirements.txt
